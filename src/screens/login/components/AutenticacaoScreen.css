@@ -1,0 +1,16 @@
+.card-autenticacao{
+    width: 350px;
+    height: 450px;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.botoes-autenticacao{
+    display: flex;
+    flex-direction: column;
+}
+
+.botoes-autenticacao button{
+    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
